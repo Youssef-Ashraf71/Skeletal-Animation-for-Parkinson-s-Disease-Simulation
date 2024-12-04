@@ -16,7 +16,7 @@ The synergy of Blender and OpenGL allows for the simulation of movement disorder
 Methodology
 
 ## Video Demo
-Actions Naming : <>
+Actions Naming: <>
 
 1- Running:: RIG-Run
 2- Walking:: RIG-rainWalk002
@@ -25,7 +25,9 @@ Actions Naming : <>
 5- Parkinson Disorder:: RIG-Disorder1
 6- Disorder 2 :: RIG-disorder02 or RIG-disorder02.001  both are the same
 
-https://github.com/Youssef-Ashraf71/Skeletal-Animation-for-Parkinson-s-Disease-Simulation/blob/main/Blender/Videos%20Exported/Video%20Demo.mkv
+
+https://github.com/user-attachments/assets/cfc07d22-9c34-4cc6-aad2-2fa12f1c567e
+
 
 ## OpenGL Integration Process:
 
@@ -47,7 +49,7 @@ We initially explored the use of the Assimp library for importing models into Op
 | **Figure** | **Description**                                                                                                  | **Image**             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- | --------------------- |
 | Figure 1   | Result from custom parser with texture.                                                                          | ![](Figures/Fig1.png) |
-| Figure 2   | Another result from custom parser with texture.                                                                  | ![](Figures/Fig2.png) |
+| Figure 2   | Another result from a custom parser with texture.                                                                  | ![](Figures/Fig2.png) |
 | Figure 3   | Result from the parser without texture, connected with lines.                                                    | ![](Figures/Fig3.png) |
 | Figure 4   | Result from the parser without texture, connected with triangles.                                                | ![](Figures/Fig4.png) |
 | Figure 5   | Wireframe of the initial human body model.                                                                       | ![](Figures/Fig5.png) |
