@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\tryHollow.dir/objects.a
+"G:\3rd year BIOMEDICAL\CMP Graphics\Configurations\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe" cr CMakeFiles\tryHollow.dir/objects.a @CMakeFiles\tryHollow.dir\objects1.rsp
+"G:\3rd year BIOMEDICAL\CMP Graphics\Configurations\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\tryHollow.dir/objects.a -Wl,--no-whole-archive  -o tryHollow.exe -Wl,--out-implib,libtryHollow.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tryHollow.dir\linklibs.rsp
